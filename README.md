@@ -1,1 +1,1 @@
-# trading-signal-bot-
+# trading-signal-bot
